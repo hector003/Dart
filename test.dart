@@ -9,4 +9,5 @@ main(List<String> args) {
   num ddd = 123.34;
   String ad = "sssss";
   double aaaa = 154.4;
+  print("${ad} $numara $aaaa");
 }
