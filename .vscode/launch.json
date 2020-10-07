@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "program": "test.dart",
+            "program": "foksiyonlar.dart",
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
