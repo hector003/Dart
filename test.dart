@@ -6,7 +6,7 @@ main(List<String> args) {
   print(yas);
   print("selam ");
   num numara = 123;
-  num ddd = 123.34;
+  //num ddd = 123.34;
   String ad = "sssss";
   double aaaa = 154.4;
   print("${ad} $numara $aaaa");
