@@ -12,6 +12,7 @@ void main(List<String> args)
   deneme.add(9);
   deneme.add(12);//12 bir kez yazıldı 
   //setlerde index yok karışık kaydediyor sıralı kaydetme yok.
+  // ignore: unused_local_variable
   bool sonuc = deneme.contains(9); //setin içinde 9 var mı yok mu ona bakar bool değer döndürür.
   sonuc = deneme.remove(17);// içine aldığı değer setin içinde varsa siler ve true döndürür yoksa false döndürür.
   for(int a in deneme)

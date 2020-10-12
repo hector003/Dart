@@ -3,6 +3,7 @@ main(List<String> args) {
   deneme3(13,c:2);
 
   try {
+    // ignore: unused_local_variable
     int a = 13 ~/ 0;
   } catch (e) {
     print("hata: $e");

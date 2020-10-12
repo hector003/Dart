@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "program": "map_yapisi.dart",
+            "program": "oop.dart",
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart"
